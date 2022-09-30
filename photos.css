@@ -220,3 +220,19 @@ p+h2
     margin-top: 0%;
     color: #36363c;
 }
+
+@media all and (min-width:481px) and (max-width:768px)
+{
+#SideMenu
+{
+    display: none;
+}
+#advertisement
+{
+    display: none;
+}
+#news
+{
+    width: 100%;
+}
+}

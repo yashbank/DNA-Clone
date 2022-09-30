@@ -185,3 +185,19 @@ a{
     width: 85%;
     
 }
+@media all and (min-width:481px) and (max-width:768px)
+{
+#SideMenu
+{
+    display: none;
+}
+#advertisement
+{
+    display: none;
+}
+#news
+{
+    width: 100%;
+}
+}
+
